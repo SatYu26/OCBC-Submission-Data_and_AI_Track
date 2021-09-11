@@ -119,6 +119,7 @@ We can further solidify our above mentioned argument that **Most amount traffic 
 ## Model Result:
 
 - Our **Random Forest Regressor** model Performed very nicely with the **accuracy of 95.25%**.
+- You can also Download the model from <a href="https://drive.google.com/file/d/1nZeepdbZwQBc9pRynghYN1AFGAKV_MXE/view?usp=sharing">HERE</a>.
 
 ## Explain why you chose this particular model for solving the problem?
 
@@ -128,4 +129,5 @@ We can further solidify our above mentioned argument that **Most amount traffic 
 
 # FULL PROJECT
 
-To look at the full project with Dataset and Output Model Visit this Google Drive link <a href='https://drive.google.com/drive/folders/1y_oMFMr1wG6oIp2IqdmCKDSsP3ZDD0Fh?usp=sharing'>HERE</a>.
+- To look at the full project with Dataset and Output Model Visit this Google Drive link <a href='https://drive.google.com/drive/folders/1y_oMFMr1wG6oIp2IqdmCKDSsP3ZDD0Fh?usp=sharing'>HERE</a>.
+- To only see the working Google colab file visit <a href="https://colab.research.google.com/drive/18kQ265A6rVZbhiV77xIUqEHscKh3HvxN?usp=sharing">HERE</a>.
