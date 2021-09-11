@@ -45,6 +45,14 @@ We can also conclude on the basis of the below density graph that **highest dens
 
 <br>
 
+Using the below Graph we can further Solidify our above theory that the **maximum amount of traffic occurs in the Direction of Northeast-Southwest and in time range of 13 to 16 and 17 to 20**.
+
+<br>
+
+<img src="./Graphs/pattern2-2.png">
+
+<br>
+
 ## Pattern 3:
 
 In the below Graph we have created the Graph between **Lane of travel and The traffic count** on Diferrent days across all time frames.
@@ -59,9 +67,51 @@ In the below Graph we have created the Graph between **Lane of travel and The tr
 
 <br>
 
+With the below mentioned **Area graph between Station ID and Lane of Travel** We can conclude that:
+
+- The Reason for **Maximum Traffic on the Lane number 7 and Lane number 8** was because **There are more number of stationed located on that path** and because of that people Travel more across those lanes.
+
+<br>
+
+<img src="./Graphs/pattern3-1.png">
+
+<br>
+
 ## Pattern 4:
 
+In the below Graph we have created the Graph between **Functional Classification and The traffic count** on Diferrent days across all time frames.
+
+1. With this we can Easily conclude that **Urban Principal Arterial: Interstate and Other Expressways have the maximum amount of traffic** specially on Hours 1 to 4 and 4 to 8 i.e **Early Mornings and Late night between hours 20 to 24, also the Least amount of traffic on Lane number 1**.
+
+2. We can also observe that on the **time range of 8 to 12 the traffic is very least irrespective of Functional Classification and on the Rural Local system we have the least Traffic**.
+
+<br>
+
+<img src="./Graphs/pattern4.png">
+
+<br>
+
 ## Pattern 5:
+
+From the below mentioned Bar Graph between **Functional Classification and Lane numbers** we can Conclude that:
+
+- Most number of people from **Rural Areas travel mostly on Outer Lanes (i.e. 5, 6, 7, 8, 9) instead of main Lanes**.
+
+- Infact we can clearly see that **There are almost negligible people from Urban Areas travelling in outer lanes except of lane 8 as there as most number of stationes situated in that lane**.
+
+<br>
+
+<img src="./Graphs/pattern5.png">
+
+<br>
+
+We can further solidify our above mentioned argument that **Most amount traffic occurs in Urban: Principal Arterial - Interstate Area in hours 13 to 16 and 17 to 20 i.e. in Evening time mostly**.
+
+<br>
+
+<img src="./Graphs/pattern5-1.png">
+
+<br>
 
 ## Explain why you chose this particular model for solving the problem?
 
