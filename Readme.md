@@ -15,7 +15,10 @@ This project is my Submission for HACK-IT challenge by OCBC in DATA and AI Track
 
 ## Pattern 1:
 
-On the basis of below bar plot we can clearly see that The **maximum amout of Traffic occurs on Day 6 i.e saturday around the hours of 12 to 16 i.e. Afternoon Hours**.
+On the basis of below bar plot between **Traffic count and Days of weeks** across all time frames we can conclude that:
+
+- The **maximum amout of Traffic occurs on Day 6 i.e saturday around the hours of 12 to 16 i.e. Afternoon Hours**.
+- Also the traffic on other days is almost similar and the **minimum amount of traffic occurs during eary morning hours between 1 to 4**.
 
 <br>
 
@@ -113,8 +116,16 @@ We can further solidify our above mentioned argument that **Most amount traffic 
 
 <br>
 
+## Model Result:
+
+- Our **Random Forest Regressor** model Performed very nicely with the **accuracy of 95.25%**.
+
 ## Explain why you chose this particular model for solving the problem?
 
 - The reason we chose this particular model for solving the problem was because of the accuracy and depth this model provides to my output.
 
 - The reason for choosing Lane of Travel as output of my model was because during Data Analysis phase, we observed a pattern in which most of the data had a similarity and good relation with Lane of Travel column and therefore it will provide us with high accuracy and consistency throughout the model.
+
+# FULL PROJECT
+
+To look at the full project with Dataset and Output Model Visit this Google Drive link <a href='https://drive.google.com/drive/folders/1y_oMFMr1wG6oIp2IqdmCKDSsP3ZDD0Fh?usp=sharing'>HERE</a>.
