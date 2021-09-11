@@ -133,13 +133,13 @@ Below i have presented the Data Model of the complete project and its final mode
 
 <br>
 
-<img src="./Graphs/datamodel.png">
+<img src="Data_Model.png">
 
 <br>
 
 ## Model Result:
 
-- Our **Random Forest Regressor** model Performed very nicely with the **accuracy of 95.25%**.
+- Our **Random Forest Regressor** model Performed very nicely with the **accuracy of 95.24%**.
 - You can also Download the model from <a href="https://drive.google.com/file/d/1nZeepdbZwQBc9pRynghYN1AFGAKV_MXE/view?usp=sharing">HERE</a>.
 
 ## Explain why you chose this particular model for solving the problem?
